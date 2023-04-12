@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cbaf51e-9038-4964-b538-3414f82a04f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sd21-p6-reviewyourexperience-ict-bldevs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BehoefteAnalyse.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FunctioneelOntwerp Eindversie.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Logboek.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TechnischOntwerp Eindversie.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/beheer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/beheer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/admin/addproduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/admin/addproduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/admin/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/admin/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/admin/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/details.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/details.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/inloggen.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/inloggen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member.php" beforeDir="false" afterPath="$PROJECT_DIR$/member.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2KSqYVh1xV5rA68ZccgdTMRRilH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/31684/OneDrive/Desktop/sd21-p6-reviewyourexperience-ict-bldevs/if-sd-php-healthone",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cbaf51e-9038-4964-b538-3414f82a04f1" name="Changes" comment="" />
+      <created>1673978379583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673978379583</updated>
+      <workItem from="1673978380865" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
